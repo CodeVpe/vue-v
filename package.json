@@ -2,7 +2,7 @@
   "name": "toutiao-vue",
   "description": "jin-ri-tou-tiao",
   "version": "1.0.0",
-  "author": "hhccyy196 <hhccyy196@163.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot --port 8090",
